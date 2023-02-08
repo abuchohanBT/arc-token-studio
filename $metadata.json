@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
-    "Reference",
+    "Reference-BT",
+    "Reference-Arc",
     "Alias",
     "Component"
   ]
