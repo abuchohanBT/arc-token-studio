@@ -695,6 +695,135 @@
         "value": "120px",
         "type": "Font Size"
       }
+    },
+    "lineHeight": {
+      "xxxs": {
+        "description": "",
+        "value": 1.3333333333333333,
+        "type": "Line Height"
+      },
+      "xxs": {
+        "description": "",
+        "value": 1.4285714285714286,
+        "type": "Line Height"
+      },
+      "xs": {
+        "description": "",
+        "value": 1.5,
+        "type": "Line Height"
+      },
+      "s": {
+        "description": "",
+        "value": 1.4,
+        "type": "Line Height"
+      },
+      "m": {
+        "description": "",
+        "value": 1.3333333333333333,
+        "type": "Line Height"
+      },
+      "mBreakpointM": {
+        "description": "",
+        "value": 1.2857142857142858,
+        "type": "Line Height"
+      },
+      "mBreakpointXL": {
+        "description": "",
+        "value": 1.25,
+        "type": "Line Height"
+      },
+      "l": {
+        "description": "",
+        "value": 1.2857142857142858,
+        "type": "Line Height"
+      },
+      "lBreakpointM": {
+        "description": "",
+        "value": 1.25,
+        "type": "Line Height"
+      },
+      "lBreakpointXL": {
+        "description": "",
+        "value": 1.2,
+        "type": "Line Height"
+      },
+      "xl": {
+        "description": "",
+        "value": 1.2222222222222223,
+        "type": "Line Height"
+      },
+      "xlBreakpointM": {
+        "description": "",
+        "value": 1.2,
+        "type": "Line Height"
+      },
+      "xlBreakpointXL": {
+        "description": "",
+        "value": 1.1428571428571428,
+        "type": "Line Height"
+      },
+      "xxl": {
+        "description": "",
+        "value": 1.2,
+        "type": "Line Height"
+      },
+      "xxlBreakpointM": {
+        "description": "",
+        "value": 1.1428571428571428,
+        "type": "Line Height"
+      },
+      "xxlBreakpointXL": {
+        "description": "",
+        "value": 1.2,
+        "type": "Line Height"
+      },
+      "xxxl": {
+        "description": "",
+        "value": 1.1428571428571428,
+        "type": "Line Height"
+      },
+      "xxxlBreakpointM": {
+        "description": "",
+        "value": 1.2,
+        "type": "Line Height"
+      },
+      "xxxlBreakpointXL": {
+        "description": "",
+        "value": 1.1333333333333333,
+        "type": "Line Height"
+      }
+    }
+  },
+  "radius": {
+    "description": "The base radius unit",
+    "value": 8,
+    "type": "Border Radius"
+  },
+  "radiusPx": {
+    "description": "",
+    "value": "8px",
+    "type": "Border Radius"
+  },
+  "grid": {
+    "gutter": {
+      "description": "",
+      "value": 24
+    },
+    "gutterPx": {
+      "description": "",
+      "value": "24px"
+    },
+    "gutterWide": {
+      "description": "",
+      "value": 32
+    },
+    "gutterWidePx": {
+      "description": "",
+      "value": "32px"
+    },
+    "columnsCount": {
+      "description": "",
+      "value": 12
     }
   }
 }
