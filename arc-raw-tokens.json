@@ -1,0 +1,1650 @@
+{
+  "arc": {
+    "color": {
+      "black": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "debug": {
+        "description": "Make elements visible for debugging and documentation purposes. Designed to have sufficent contrast and visibility on a wide range of backgrounds. Use with addtional alpha channel where appropriate.",
+        "value": "#cf3a8a",
+        "type": "color"
+      }
+    },
+    "space": {
+      "description": "The base space unit",
+      "value": 4,
+      "type": "sizing"
+    },
+    "spacePx": {
+      "description": "",
+      "value": "4px",
+      "type": "sizing"
+    },
+    "leading": {
+      "description": "The base leading unit",
+      "value": 24,
+      "type": "sizing"
+    },
+    "leadingPx": {
+      "description": "",
+      "value": "24px",
+      "type": "sizing"
+    },
+    "verticalSpace": {
+      "4": {
+        "description": "",
+        "value": 4,
+        "type": "sizing"
+      },
+      "8": {
+        "description": "",
+        "value": 8,
+        "type": "sizing"
+      },
+      "12": {
+        "description": "",
+        "value": 12,
+        "type": "sizing"
+      },
+      "16": {
+        "description": "",
+        "value": 16,
+        "type": "sizing"
+      },
+      "24": {
+        "description": "",
+        "value": 24,
+        "type": "sizing"
+      },
+      "32": {
+        "description": "",
+        "value": 32,
+        "type": "sizing"
+      },
+      "48": {
+        "description": "",
+        "value": 48,
+        "type": "sizing"
+      },
+      "64": {
+        "description": "",
+        "value": 64,
+        "type": "sizing"
+      },
+      "96": {
+        "description": "",
+        "value": 96,
+        "type": "sizing"
+      },
+      "128": {
+        "description": "",
+        "value": 128,
+        "type": "sizing"
+      },
+      "4-px": {
+        "description": "",
+        "value": "4px",
+        "type": "sizing"
+      },
+      "8-px": {
+        "description": "",
+        "value": "8px",
+        "type": "sizing"
+      },
+      "12-px": {
+        "description": "",
+        "value": "12px",
+        "type": "sizing"
+      },
+      "16-px": {
+        "description": "",
+        "value": "16px",
+        "type": "sizing"
+      },
+      "24-px": {
+        "description": "",
+        "value": "24px",
+        "type": "sizing"
+      },
+      "32-px": {
+        "description": "",
+        "value": "32px",
+        "type": "sizing"
+      },
+      "48-px": {
+        "description": "",
+        "value": "48px",
+        "type": "sizing"
+      },
+      "64-px": {
+        "description": "",
+        "value": "64px",
+        "type": "sizing"
+      },
+      "96-px": {
+        "description": "",
+        "value": "96px",
+        "type": "sizing"
+      },
+      "128-px": {
+        "description": "",
+        "value": "128px",
+        "type": "sizing"
+      }
+    },
+    "fontWeight": {
+      "bold": {
+        "description": "The bold font weight",
+        "value": 700,
+        "type": "fontWeight"
+      },
+      "normal": {
+        "description": "The normal font weight",
+        "value": 400,
+        "type": "fontWeight"
+      }
+    },
+    "fontSize": {
+      "10": {
+        "description": "",
+        "value": 56,
+        "type": "fontSizing"
+      },
+      "11": {
+        "description": "",
+        "value": 80,
+        "type": "fontSizing"
+      },
+      "12": {
+        "description": "",
+        "value": 120,
+        "type": "fontSizing"
+      },
+      "10-px": {
+        "description": "",
+        "value": "56px",
+        "type": "fontSizing"
+      },
+      "11-px": {
+        "description": "",
+        "value": "80px",
+        "type": "fontSizing"
+      },
+      "12-px": {
+        "description": "",
+        "value": "120px",
+        "type": "fontSizing"
+      },
+      "default": {
+        "description": "The default font size",
+        "value": 16,
+        "type": "fontSizing"
+      },
+      "default-px": {
+        "description": "The default font size",
+        "value": "16px",
+        "type": "fontSizing"
+      },
+      "01": {
+        "description": "",
+        "value": 12,
+        "type": "fontSizing"
+      },
+      "01-px": {
+        "description": "",
+        "value": "12px",
+        "type": "fontSizing"
+      },
+      "02": {
+        "description": "",
+        "value": 14,
+        "type": "fontSizing"
+      },
+      "02-px": {
+        "description": "",
+        "value": "14px",
+        "type": "fontSizing"
+      },
+      "03": {
+        "description": "",
+        "value": 16,
+        "type": "fontSizing"
+      },
+      "03-px": {
+        "description": "",
+        "value": "16px",
+        "type": "fontSizing"
+      },
+      "04": {
+        "description": "",
+        "value": 20,
+        "type": "fontSizing"
+      },
+      "04-px": {
+        "description": "",
+        "value": "20px",
+        "type": "fontSizing"
+      },
+      "05": {
+        "description": "",
+        "value": 24,
+        "type": "fontSizing"
+      },
+      "05-px": {
+        "description": "",
+        "value": "24px",
+        "type": "fontSizing"
+      },
+      "06": {
+        "description": "",
+        "value": 28,
+        "type": "fontSizing"
+      },
+      "06-px": {
+        "description": "",
+        "value": "28px",
+        "type": "fontSizing"
+      },
+      "07": {
+        "description": "",
+        "value": 32,
+        "type": "fontSizing"
+      },
+      "07-px": {
+        "description": "",
+        "value": "32px",
+        "type": "fontSizing"
+      },
+      "08": {
+        "description": "",
+        "value": 36,
+        "type": "fontSizing"
+      },
+      "08-px": {
+        "description": "",
+        "value": "36px",
+        "type": "fontSizing"
+      },
+      "09": {
+        "description": "",
+        "value": 40,
+        "type": "fontSizing"
+      },
+      "09-px": {
+        "description": "",
+        "value": "40px",
+        "type": "fontSizing"
+      }
+    },
+    "lineHeight": {
+      "10": {
+        "description": "",
+        "value": 1.1428571428571428,
+        "type": "lineHeight"
+      },
+      "11": {
+        "description": "",
+        "value": 1.2,
+        "type": "lineHeight"
+      },
+      "12": {
+        "description": "",
+        "value": 1.1333333333333333,
+        "type": "lineHeight"
+      },
+      "default": {
+        "description": "The default line height",
+        "value": 1.5,
+        "type": "lineHeight"
+      },
+      "01": {
+        "description": "",
+        "value": 1.3333333333333333,
+        "type": "lineHeight"
+      },
+      "02": {
+        "description": "",
+        "value": 1.4285714285714286,
+        "type": "lineHeight"
+      },
+      "03": {
+        "description": "",
+        "value": 1.5,
+        "type": "lineHeight"
+      },
+      "04": {
+        "description": "",
+        "value": 1.4,
+        "type": "lineHeight"
+      },
+      "05": {
+        "description": "",
+        "value": 1.3333333333333333,
+        "type": "lineHeight"
+      },
+      "06": {
+        "description": "",
+        "value": 1.2857142857142858,
+        "type": "lineHeight"
+      },
+      "07": {
+        "description": "",
+        "value": 1.25,
+        "type": "lineHeight"
+      },
+      "08": {
+        "description": "",
+        "value": 1.2222222222222223,
+        "type": "lineHeight"
+      },
+      "09": {
+        "description": "",
+        "value": 1.2,
+        "type": "lineHeight"
+      }
+    },
+    "text": {
+      "fontSize": {
+        "xs": {
+          "description": "",
+          "value": 12,
+          "type": "fontSize"
+        },
+        "xs-px": {
+          "description": "",
+          "value": "12px",
+          "type": "fontSize"
+        },
+        "s": {
+          "description": "",
+          "value": 14,
+          "type": "fontSize"
+        },
+        "s-px": {
+          "description": "",
+          "value": "14px",
+          "type": "fontSize"
+        },
+        "m": {
+          "description": "",
+          "value": 16,
+          "type": "fontSize"
+        },
+        "m-px": {
+          "description": "",
+          "value": "16px",
+          "type": "fontSize"
+        },
+        "l": {
+          "description": "",
+          "value": 20,
+          "type": "fontSize"
+        },
+        "l-px": {
+          "description": "",
+          "value": "20px",
+          "type": "fontSize"
+        }
+      },
+      "lineHeight": {
+        "xs": {
+          "description": "",
+          "value": 1.3333333333333333,
+          "type": "lineHeight"
+        },
+        "s": {
+          "description": "",
+          "value": 1.4285714285714286,
+          "type": "lineHeight"
+        },
+        "m": {
+          "description": "",
+          "value": 1.5,
+          "type": "lineHeight"
+        },
+        "l": {
+          "description": "",
+          "value": 1.4,
+          "type": "lineHeight"
+        }
+      }
+    },
+    "heading": {
+      "fontSize": {
+        "xxxs": {
+          "description": "",
+          "value": 12,
+          "type": "fontSize"
+        },
+        "xxxs-px": {
+          "description": "",
+          "value": "12px",
+          "type": "fontSize"
+        },
+        "xxs": {
+          "description": "",
+          "value": 14,
+          "type": "fontSize"
+        },
+        "xxs-px": {
+          "description": "",
+          "value": "14px",
+          "type": "fontSize"
+        },
+        "xs": {
+          "description": "",
+          "value": 16,
+          "type": "fontSize"
+        },
+        "xs-px": {
+          "description": "",
+          "value": "16px",
+          "type": "fontSize"
+        },
+        "s": {
+          "description": "",
+          "value": 20,
+          "type": "fontSize"
+        },
+        "s-px": {
+          "description": "",
+          "value": "20px",
+          "type": "fontSize"
+        },
+        "m": {
+          "description": "",
+          "value": 24,
+          "type": "fontSize"
+        },
+        "m-px": {
+          "description": "",
+          "value": "24px",
+          "type": "fontSize"
+        },
+        "mBreakpointM": {
+          "description": "",
+          "value": 28,
+          "type": "fontSize"
+        },
+        "mBreakpointM-px": {
+          "description": "",
+          "value": "28px",
+          "type": "fontSize"
+        },
+        "mBreakpointXL": {
+          "description": "",
+          "value": 32,
+          "type": "fontSize"
+        },
+        "mBreakpointXL-px": {
+          "description": "",
+          "value": "32px",
+          "type": "fontSize"
+        },
+        "l": {
+          "description": "",
+          "value": 28,
+          "type": "fontSize"
+        },
+        "l-px": {
+          "description": "",
+          "value": "28px",
+          "type": "fontSize"
+        },
+        "lBreakpointM": {
+          "description": "",
+          "value": 32,
+          "type": "fontSize"
+        },
+        "lBreakpointM-px": {
+          "description": "",
+          "value": "32px",
+          "type": "fontSize"
+        },
+        "lBreakpointXL": {
+          "description": "",
+          "value": 40,
+          "type": "fontSize"
+        },
+        "lBreakpointXL-px": {
+          "description": "",
+          "value": "40px",
+          "type": "fontSize"
+        },
+        "xl": {
+          "description": "",
+          "value": 36,
+          "type": "fontSize"
+        },
+        "xl-px": {
+          "description": "",
+          "value": "36px",
+          "type": "fontSize"
+        },
+        "xlBreakpointM": {
+          "description": "",
+          "value": 40,
+          "type": "fontSize"
+        },
+        "xlBreakpointM-px": {
+          "description": "",
+          "value": "40px",
+          "type": "fontSize"
+        },
+        "xlBreakpointXL": {
+          "description": "",
+          "value": 56,
+          "type": "fontSize"
+        },
+        "xlBreakpointXL-px": {
+          "description": "",
+          "value": "56px",
+          "type": "fontSize"
+        },
+        "xxl": {
+          "description": "",
+          "value": 40,
+          "type": "fontSize"
+        },
+        "xxl-px": {
+          "description": "",
+          "value": "40px",
+          "type": "fontSize"
+        },
+        "xxlBreakpointM": {
+          "description": "",
+          "value": 56,
+          "type": "fontSize"
+        },
+        "xxlBreakpointM-px": {
+          "description": "",
+          "value": "56px",
+          "type": "fontSize"
+        },
+        "xxlBreakpointXL": {
+          "description": "",
+          "value": 80,
+          "type": "fontSize"
+        },
+        "xxlBreakpointXL-px": {
+          "description": "",
+          "value": "80px",
+          "type": "fontSize"
+        },
+        "xxxl": {
+          "description": "",
+          "value": 56,
+          "type": "fontSize"
+        },
+        "xxxl-px": {
+          "description": "",
+          "value": "56px",
+          "type": "fontSize"
+        },
+        "xxxlBreakpointM": {
+          "description": "",
+          "value": 80,
+          "type": "fontSize"
+        },
+        "xxxlBreakpointM-px": {
+          "description": "",
+          "value": "80px",
+          "type": "fontSize"
+        },
+        "xxxlBreakpointXL": {
+          "description": "",
+          "value": 120,
+          "type": "fontSize"
+        },
+        "xxxlBreakpointXL-px": {
+          "description": "",
+          "value": "120px",
+          "type": "fontSize"
+        }
+      },
+      "lineHeight": {
+        "xxxs": {
+          "description": "",
+          "value": 1.3333333333333333,
+          "type": "lineHeight"
+        },
+        "xxs": {
+          "description": "",
+          "value": 1.4285714285714286,
+          "type": "lineHeight"
+        },
+        "xs": {
+          "description": "",
+          "value": 1.5,
+          "type": "lineHeight"
+        },
+        "s": {
+          "description": "",
+          "value": 1.4,
+          "type": "lineHeight"
+        },
+        "m": {
+          "description": "",
+          "value": 1.3333333333333333,
+          "type": "lineHeight"
+        },
+        "mBreakpointM": {
+          "description": "",
+          "value": 1.2857142857142858,
+          "type": "lineHeight"
+        },
+        "mBreakpointXL": {
+          "description": "",
+          "value": 1.25,
+          "type": "lineHeight"
+        },
+        "l": {
+          "description": "",
+          "value": 1.2857142857142858,
+          "type": "lineHeight"
+        },
+        "lBreakpointM": {
+          "description": "",
+          "value": 1.25,
+          "type": "lineHeight"
+        },
+        "lBreakpointXL": {
+          "description": "",
+          "value": 1.2,
+          "type": "lineHeight"
+        },
+        "xl": {
+          "description": "",
+          "value": 1.2222222222222223,
+          "type": "lineHeight"
+        },
+        "xlBreakpointM": {
+          "description": "",
+          "value": 1.2,
+          "type": "lineHeight"
+        },
+        "xlBreakpointXL": {
+          "description": "",
+          "value": 1.1428571428571428,
+          "type": "lineHeight"
+        },
+        "xxl": {
+          "description": "",
+          "value": 1.2,
+          "type": "lineHeight"
+        },
+        "xxlBreakpointM": {
+          "description": "",
+          "value": 1.1428571428571428,
+          "type": "lineHeight"
+        },
+        "xxlBreakpointXL": {
+          "description": "",
+          "value": 1.2,
+          "type": "lineHeight"
+        },
+        "xxxl": {
+          "description": "",
+          "value": 1.1428571428571428,
+          "type": "lineHeight"
+        },
+        "xxxlBreakpointM": {
+          "description": "",
+          "value": 1.2,
+          "type": "lineHeight"
+        },
+        "xxxlBreakpointXL": {
+          "description": "",
+          "value": 1.1333333333333333,
+          "type": "lineHeight"
+        }
+      }
+    },
+    "section": {
+      "margin": {
+        "description": "",
+        "value": 24,
+        "type": "spacing"
+      },
+      "margin-px": {
+        "description": "",
+        "value": "24px",
+        "type": "spacing"
+      },
+      "marginNarrow": {
+        "description": "",
+        "value": 16,
+        "type": "spacing"
+      },
+      "marginNarrow-px": {
+        "description": "",
+        "value": "16px",
+        "type": "spacing"
+      },
+      "marginWide": {
+        "description": "",
+        "value": 32,
+        "type": "spacing"
+      },
+      "marginWide-px": {
+        "description": "",
+        "value": "32px",
+        "type": "spacing"
+      },
+      "maxWidth": {
+        "description": "",
+        "value": 1008,
+        "type": "spacing"
+      },
+      "maxWidth-px": {
+        "description": "",
+        "value": "1008px",
+        "type": "spacing"
+      },
+      "maxWidthNarrow": {
+        "description": "",
+        "value": 620,
+        "type": "spacing"
+      },
+      "maxWidthNarrow-px": {
+        "description": "",
+        "value": "620px",
+        "type": "spacing"
+      },
+      "maxWidthWide": {
+        "description": "",
+        "value": 1280,
+        "type": "spacing"
+      },
+      "maxWidthWide-px": {
+        "description": "",
+        "value": "1280px",
+        "type": "spacing"
+      }
+    },
+    "radius": {
+      "description": "The base radius unit",
+      "value": 8,
+      "type": "borderRadius"
+    },
+    "radiusPx": {
+      "description": "",
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "grid": {
+      "gutter": {
+        "description": "",
+        "value": 24
+      },
+      "gutterPx": {
+        "description": "",
+        "value": "24px"
+      },
+      "gutterWide": {
+        "description": "",
+        "value": 32
+      },
+      "gutterWidePx": {
+        "description": "",
+        "value": "32px"
+      },
+      "columnsCount": {
+        "description": "",
+        "value": 12
+      }
+    },
+    "breakpoint": {
+      "xs": {
+        "description": "The extra small breakpoint",
+        "value": 320
+      },
+      "xs-px": {
+        "description": "The extra small breakpoint",
+        "value": "320px"
+      },
+      "s": {
+        "description": "The small breakpoint",
+        "value": 636
+      },
+      "s-px": {
+        "description": "The small breakpoint",
+        "value": "636px"
+      },
+      "m": {
+        "description": "The medium breakpoint",
+        "value": 768
+      },
+      "m-px": {
+        "description": "The medium breakpoint",
+        "value": "768px"
+      },
+      "l": {
+        "description": "The large breakpoint",
+        "value": 1024
+      },
+      "l-px": {
+        "description": "The large breakpoint",
+        "value": "1024px"
+      },
+      "xl": {
+        "description": "The extra-large breakpoint",
+        "value": 1280
+      },
+      "xl-px": {
+        "description": "The extra-large breakpoint",
+        "value": "1280px"
+      }
+    },
+    "media": {
+      "minWidth": {
+        "s": {
+          "description": "The small media width",
+          "value": 636
+        },
+        "s-px": {
+          "description": "The small media width",
+          "value": "636px"
+        },
+        "m": {
+          "description": "The medium media width",
+          "value": 768
+        },
+        "m-px": {
+          "description": "The medium media width",
+          "value": "768px"
+        },
+        "l": {
+          "description": "The large media width",
+          "value": 1024
+        },
+        "l-px": {
+          "description": "The large media width",
+          "value": "1024px"
+        },
+        "xl": {
+          "description": "The extra-large media width",
+          "value": 1280
+        },
+        "xl-px": {
+          "description": "The extra-large media width",
+          "value": "1280px"
+        }
+      }
+    }
+  },
+  "bt": {
+    "color": {
+      "brand": {
+        "indigo": {
+          "name": "Indigo",
+          "description": "The brand colour.",
+          "value": "#5514b4",
+          "type": "color"
+        },
+        "pink": {
+          "name": "Pink",
+          "description": "The secondary brand colour. Usually reserved for the dark pathway.",
+          "value": "#ff80ff",
+          "type": "color"
+        },
+        "extended": {
+          "coral": {
+            "name": "Coral",
+            "value": "#ec9b9b",
+            "type": "color"
+          },
+          "turquoise": {
+            "name": "Turquoise",
+            "value": "#1ec8e6",
+            "type": "color"
+          }
+        }
+      },
+      "backgroundWhite": {
+        "name": "White",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "backgroundLighter": {
+        "name": "Lighter",
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "backgroundLight": {
+        "name": "Light",
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "bodyText": {
+        "name": "Body text",
+        "description": "The default colour for all text.",
+        "value": "#2a2a2a",
+        "type": "color"
+      },
+      "supportingText": {
+        "name": "Supporting text",
+        "description": "A slightly de-emphasised text colour for less important text.",
+        "value": "#434343",
+        "type": "color"
+      },
+      "mutedText": {
+        "name": "Muted text",
+        "description": "The most de-emphasised text colour, whilst still have sufficient contrast for accessibility.",
+        "value": "#6b6b6b",
+        "type": "color"
+      },
+      "headingBrand": {
+        "description": "Brand colour for headings. Reverts to white on the dark pathway.",
+        "name": "Heading brand",
+        "value": "#5514b4",
+        "type": "color"
+      },
+      "headingProposition": {
+        "description": "Propositions are used as a two-tone treatment to highlight key words.",
+        "name": "Heading proposition",
+        "value": "#f200f5",
+        "type": "color"
+      },
+      "interactive": {
+        "name": "Interactive (flat)",
+        "description": "The fallback colour for interactive elements like links and buttons. Use this when it's not possible to use a gradient.",
+        "value": "#5514b4",
+        "type": "color"
+      },
+      "interactiveHover": {
+        "name": "Interactive hover",
+        "description": "The default colour for the hover state on interactive elements like links and buttons.",
+        "value": "#3f187f",
+        "type": "color"
+      },
+      "interactiveActive": {
+        "name": "Interactive active",
+        "description": "The default colour for the active state on interactive elements like links and buttons.",
+        "value": "#2a1c4a",
+        "type": "color"
+      },
+      "buttonForeground": {
+        "name": "Button foreground",
+        "description": "The colour for text placed on a solid button.",
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "focusOutline": {
+        "name": "Focus outline",
+        "description": "The outline colour to use when focusing interactive elements.",
+        "value": "#8449cc",
+        "type": "color"
+      },
+      "selected": {
+        "name": "Selected",
+        "description": "The colour for \"selected\" elements, like checkboxes or radios.",
+        "value": "#2a1c4a",
+        "type": "color"
+      },
+      "disabledForeground": {
+        "name": "Disabled foreground",
+        "description": "The colour for text, borders and other foreground elements in a disabled interactive element.",
+        "value": "#434343",
+        "type": "color"
+      },
+      "disabledBackground": {
+        "name": "Disabled background",
+        "description": "The background colour to use when an interactive element is disabled. For example, used as the background colour of a form input.",
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "borderDefault": {
+        "name": "Border default",
+        "description": "The default border colour.",
+        "value": "#c8c8c8",
+        "type": "color"
+      },
+      "borderInput": {
+        "name": "Border input",
+        "description": "The border colour for input elements.",
+        "value": "#2a2a2a",
+        "type": "color"
+      },
+      "statusRed": {
+        "name": "Status red",
+        "description": "A colour used to indicate a negative or dangerous state to the user, like errors in forms.",
+        "value": "#da020f",
+        "type": "color"
+      },
+      "statusRedComplementary": {
+        "name": "Status red complementary",
+        "description": "A complementary colour to status red, which can be used as a background colour.",
+        "value": "#ffe9ec",
+        "type": "color"
+      },
+      "statusAmber": {
+        "name": "Status amber",
+        "description": "A colour used to warn or alert the user. Reverts to Grey 09 on the light pathway to provide sufficient contrast.",
+        "value": "#434343",
+        "type": "color"
+      },
+      "statusGreen": {
+        "name": "Status green",
+        "description": "A colour used to indicate a positive state to the user.",
+        "value": "#088003",
+        "type": "color"
+      },
+      "darkPathway": {
+        "backgroundBrand": {
+          "name": "Brand (flat)",
+          "value": "#5514b4",
+          "type": "color"
+        },
+        "backgroundDarker": {
+          "name": "Darker",
+          "value": "#2a2a2a",
+          "type": "color"
+        },
+        "backgroundDark": {
+          "name": "Dark",
+          "value": "#434343",
+          "type": "color"
+        },
+        "bodyText": {
+          "name": "Body text",
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "supportingText": {
+          "name": "Supporting text",
+          "value": "#e3e3e3",
+          "type": "color"
+        },
+        "mutedText": {
+          "name": "Muted text",
+          "value": "#c8c8c8",
+          "type": "color"
+        },
+        "headingBrand": {
+          "name": "Heading brand",
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "headingProposition": {
+          "name": "Heading proposition",
+          "value": "#ff80ff",
+          "type": "color"
+        },
+        "interactive": {
+          "name": "Interactive (flat)",
+          "value": "#ff80ff",
+          "type": "color"
+        },
+        "interactiveHover": {
+          "name": "Interactive hover",
+          "value": "#ffb7fe",
+          "type": "color"
+        },
+        "interactiveActive": {
+          "name": "Interactive active",
+          "value": "#ffe4ff",
+          "type": "color"
+        },
+        "buttonForeground": {
+          "name": "Button foreground",
+          "value": "#000000",
+          "type": "color"
+        },
+        "focusOutline": {
+          "name": "Focus outline",
+          "value": "#d4bfec",
+          "type": "color"
+        },
+        "selected": {
+          "name": "Selected",
+          "value": "#ffe4ff",
+          "type": "color"
+        },
+        "disabledForeground": {
+          "name": "Disabled foreground",
+          "value": "#f0f0f0",
+          "type": "color"
+        },
+        "disabledBackground": {
+          "name": "Disabled background",
+          "value": "#6b6b6b",
+          "type": "color"
+        },
+        "borderDefault": {
+          "name": "Border default",
+          "value": "#aaaaaa",
+          "type": "color"
+        },
+        "borderInput": {
+          "name": "Border input",
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "statusRed": {
+          "name": "Status red",
+          "value": "#fa9590",
+          "type": "color"
+        },
+        "statusRedComplementary": {
+          "name": "Status red complementary",
+          "value": "#ab0000",
+          "type": "color"
+        },
+        "statusAmber": {
+          "name": "Status amber",
+          "value": "#ffc501",
+          "type": "color"
+        },
+        "statusGreen": {
+          "name": "Status green",
+          "value": "#75c26c",
+          "type": "color"
+        }
+      },
+      "raw": {
+        "indigo": {
+          "10": {
+            "value": "#2a1c4a",
+            "type": "color"
+          },
+          "01": {
+            "value": "#efe5f7",
+            "type": "color"
+          },
+          "02": {
+            "value": "#d4bfec",
+            "type": "color"
+          },
+          "03": {
+            "value": "#c2a4e6",
+            "type": "color"
+          },
+          "04": {
+            "value": "#996cd5",
+            "type": "color"
+          },
+          "05": {
+            "value": "#8449cc",
+            "type": "color"
+          },
+          "06": {
+            "value": "#712dc2",
+            "type": "color"
+          },
+          "07": {
+            "value": "#6724bd",
+            "type": "color"
+          },
+          "08": {
+            "name": "08 Brand",
+            "value": "#5514b4",
+            "type": "color"
+          },
+          "09": {
+            "value": "#3f187f",
+            "type": "color"
+          }
+        },
+        "pink": {
+          "10": {
+            "value": "#7e0091",
+            "type": "color"
+          },
+          "01": {
+            "value": "#ffe4ff",
+            "type": "color"
+          },
+          "02": {
+            "value": "#ffb7fe",
+            "type": "color"
+          },
+          "03": {
+            "name": "03 Brand",
+            "value": "#ff80ff",
+            "type": "color"
+          },
+          "04": {
+            "value": "#fd51ff",
+            "type": "color"
+          },
+          "05": {
+            "value": "#f200f5",
+            "type": "color"
+          },
+          "06": {
+            "value": "#dc00e0",
+            "type": "color"
+          },
+          "07": {
+            "value": "#ca00dc",
+            "type": "color"
+          },
+          "08": {
+            "value": "#b202d6",
+            "type": "color"
+          },
+          "09": {
+            "value": "#9e02c9",
+            "type": "color"
+          }
+        },
+        "coral": {
+          "10": {
+            "value": "#9b0015",
+            "type": "color"
+          },
+          "01": {
+            "value": "#f5c8c8",
+            "type": "color"
+          },
+          "02": {
+            "value": "#f1b4b4",
+            "type": "color"
+          },
+          "03": {
+            "name": "03 Extended",
+            "value": "#ec9b9b",
+            "type": "color"
+          },
+          "04": {
+            "value": "#e88484",
+            "type": "color"
+          },
+          "05": {
+            "value": "#e47070",
+            "type": "color"
+          },
+          "06": {
+            "value": "#de5454",
+            "type": "color"
+          },
+          "07": {
+            "value": "#d83232",
+            "type": "color"
+          },
+          "08": {
+            "value": "#c22525",
+            "type": "color"
+          },
+          "09": {
+            "value": "#aa2020",
+            "type": "color"
+          }
+        },
+        "turquoise": {
+          "10": {
+            "value": "#003e55",
+            "type": "color"
+          },
+          "01": {
+            "value": "#b4ecf8",
+            "type": "color"
+          },
+          "02": {
+            "value": "#80dff3",
+            "type": "color"
+          },
+          "03": {
+            "value": "#4bd2ec",
+            "type": "color"
+          },
+          "04": {
+            "name": "04 Extended",
+            "value": "#1ec8e6",
+            "type": "color"
+          },
+          "05": {
+            "value": "#04bbe0",
+            "type": "color"
+          },
+          "06": {
+            "value": "#02a5ce",
+            "type": "color"
+          },
+          "07": {
+            "value": "#028fb2",
+            "type": "color"
+          },
+          "08": {
+            "value": "#027591",
+            "type": "color"
+          },
+          "09": {
+            "value": "#00566e",
+            "type": "color"
+          }
+        },
+        "grey": {
+          "10": {
+            "value": "#2a2a2a",
+            "type": "color"
+          },
+          "01": {
+            "value": "#f7f7f7",
+            "type": "color"
+          },
+          "02": {
+            "value": "#f0f0f0",
+            "type": "color"
+          },
+          "03": {
+            "value": "#e3e3e3",
+            "type": "color"
+          },
+          "04": {
+            "value": "#d9d9d9",
+            "type": "color"
+          },
+          "05": {
+            "value": "#c8c8c8",
+            "type": "color"
+          },
+          "06": {
+            "value": "#aaaaaa",
+            "type": "color"
+          },
+          "07": {
+            "value": "#808080",
+            "type": "color"
+          },
+          "08": {
+            "value": "#6b6b6b",
+            "type": "color"
+          },
+          "09": {
+            "value": "#434343",
+            "type": "color"
+          }
+        },
+        "green": {
+          "10": {
+            "value": "#005900",
+            "type": "color"
+          },
+          "01": {
+            "value": "#e6f4e5",
+            "type": "color"
+          },
+          "02": {
+            "value": "#c4e4bf",
+            "type": "color"
+          },
+          "03": {
+            "value": "#9ed296",
+            "type": "color"
+          },
+          "04": {
+            "value": "#75c26c",
+            "type": "color"
+          },
+          "05": {
+            "value": "#56b54b",
+            "type": "color"
+          },
+          "06": {
+            "value": "#34a827",
+            "type": "color"
+          },
+          "07": {
+            "value": "#219417",
+            "type": "color"
+          },
+          "08": {
+            "name": "08 Status",
+            "value": "#088003",
+            "type": "color"
+          },
+          "09": {
+            "value": "#036c01",
+            "type": "color"
+          }
+        },
+        "amber": {
+          "10": {
+            "value": "#ff7f00",
+            "type": "color"
+          },
+          "01": {
+            "value": "#fffee7",
+            "type": "color"
+          },
+          "02": {
+            "value": "#fffbc0",
+            "type": "color"
+          },
+          "03": {
+            "value": "#fef795",
+            "type": "color"
+          },
+          "04": {
+            "value": "#fcf567",
+            "type": "color"
+          },
+          "05": {
+            "value": "#f9ed3e",
+            "type": "color"
+          },
+          "06": {
+            "value": "#fae423",
+            "type": "color"
+          },
+          "07": {
+            "value": "#ffd502",
+            "type": "color"
+          },
+          "08": {
+            "name": "08 Status",
+            "value": "#ffc501",
+            "type": "color"
+          },
+          "09": {
+            "value": "#ffa200",
+            "type": "color"
+          }
+        },
+        "red": {
+          "10": {
+            "value": "#ab0000",
+            "type": "color"
+          },
+          "01": {
+            "value": "#ffe9ec",
+            "type": "color"
+          },
+          "02": {
+            "value": "#ffc8cb",
+            "type": "color"
+          },
+          "03": {
+            "value": "#fa9590",
+            "type": "color"
+          },
+          "04": {
+            "value": "#ed6460",
+            "type": "color"
+          },
+          "05": {
+            "value": "#f63a38",
+            "type": "color"
+          },
+          "06": {
+            "value": "#f91f14",
+            "type": "color"
+          },
+          "07": {
+            "value": "#eb0113",
+            "type": "color"
+          },
+          "08": {
+            "name": "08 Status",
+            "value": "#da020f",
+            "type": "color"
+          },
+          "09": {
+            "value": "#c90104",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "gradient": {
+      "stop1": {
+        "color": {
+          "value": "#5514b4"
+        },
+        "position": {
+          "value": 0.5
+        },
+        "positionPercentage": {
+          "value": "50%"
+        }
+      },
+      "stop2": {
+        "color": {
+          "value": "#7e2ec6"
+        },
+        "position": {
+          "value": 1
+        },
+        "positionPercentage": {
+          "value": "100%"
+        }
+      },
+      "coral": {
+        "stop1": {
+          "color": {
+            "value": "#fff2f0"
+          },
+          "position": {
+            "value": 0
+          },
+          "positionPercentage": {
+            "value": "0%"
+          }
+        },
+        "stop2": {
+          "color": {
+            "value": "#f5eefa"
+          },
+          "position": {
+            "value": 1
+          },
+          "positionPercentage": {
+            "value": "100%"
+          }
+        }
+      },
+      "turquoise": {
+        "stop1": {
+          "color": {
+            "value": "#f5eefa"
+          },
+          "position": {
+            "value": 0
+          },
+          "positionPercentage": {
+            "value": "0%"
+          }
+        },
+        "stop2": {
+          "color": {
+            "value": "#eafcff"
+          },
+          "position": {
+            "value": 1
+          },
+          "positionPercentage": {
+            "value": "100%"
+          }
+        }
+      },
+      "darkPathway": {
+        "stop1": {
+          "color": {
+            "value": "#ff80ff"
+          },
+          "position": {
+            "value": 0.5
+          },
+          "positionPercentage": {
+            "value": "50%"
+          }
+        },
+        "stop2": {
+          "color": {
+            "value": "#d666ed"
+          },
+          "position": {
+            "value": 1
+          },
+          "positionPercentage": {
+            "value": "100%"
+          }
+        }
+      }
+    },
+    "typeface": {
+      "default": {
+        "description": "The default typeface.",
+        "value": "BT Curve",
+        "type": "fontFamily"
+      }
+    },
+    "fontWeight": {
+      "headline": {
+        "description": "The headline font weight",
+        "value": 500,
+        "type": "fontWeight"
+      }
+    },
+    "shadow": {
+      "blur": {
+        "value": 36,
+        "type": ""
+      },
+      "blurPx": {
+        "value": "36px",
+        "type": ""
+      },
+      "color": {
+        "value": "#000000",
+        "type": ""
+      },
+      "colorRgb": {
+        "value": "0, 0, 0",
+        "type": ""
+      },
+      "opacity": {
+        "value": 0.4,
+        "type": ""
+      },
+      "offset": {
+        "x": {
+          "value": -12,
+          "type": ""
+        },
+        "xPx": {
+          "value": "-12px",
+          "type": ""
+        },
+        "y": {
+          "value": 12,
+          "type": ""
+        },
+        "yPx": {
+          "value": "12px",
+          "type": ""
+        }
+      },
+      "spread": {
+        "value": 0
+      }
+    }
+  }
+}
