@@ -1,6 +1,6 @@
 {
   "ErrorButton": {
-    "value": "{Error}",
+    "value": "{turquoise.06}",
     "type": "color"
   }
 }

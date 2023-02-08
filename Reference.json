@@ -33,7 +33,6 @@
       "type": "color"
     },
     "08": {
-      "name": "08 Brand",
       "value": "#5514b4",
       "type": "color"
     },
@@ -56,7 +55,6 @@
       "type": "color"
     },
     "03": {
-      "name": "03 Brand",
       "value": "#ff80ff",
       "type": "color"
     },
@@ -99,7 +97,6 @@
       "type": "color"
     },
     "03": {
-      "name": "03 Extended",
       "value": "#ec9b9b",
       "type": "color"
     },
@@ -146,7 +143,6 @@
       "type": "color"
     },
     "04": {
-      "name": "04 Extended",
       "value": "#1ec8e6",
       "type": "color"
     },
@@ -247,7 +243,6 @@
       "type": "color"
     },
     "08": {
-      "name": "08 Status",
       "value": "#088003",
       "type": "color"
     },
@@ -290,7 +285,6 @@
       "type": "color"
     },
     "08": {
-      "name": "08 Status",
       "value": "#ffc501",
       "type": "color"
     },
@@ -333,7 +327,6 @@
       "type": "color"
     },
     "08": {
-      "name": "08 Status",
       "value": "#da020f",
       "type": "color"
     },
