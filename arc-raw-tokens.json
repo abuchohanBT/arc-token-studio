@@ -1593,7 +1593,7 @@
       "default": {
         "description": "The default typeface.",
         "value": "BT Curve",
-        "type": "fontFamily"
+        "type": "Font Family"
       }
     },
     "fontWeight": {
