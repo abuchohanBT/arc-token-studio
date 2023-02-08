@@ -12,9 +12,221 @@
     "value": "#cf3a8a",
     "type": "color"
   },
+  "xxxs": {
+    "description": "",
+    "value": 1.3333333333333333,
+    "type": "Line Height"
+  },
+  "xxs": {
+    "description": "",
+    "value": 1.4285714285714286,
+    "type": "Line Height"
+  },
+  "xs": {
+    "description": "",
+    "value": 1.5,
+    "type": "Line Height"
+  },
+  "s": {
+    "description": "",
+    "value": 1.4,
+    "type": "Line Height"
+  },
+  "m": {
+    "description": "",
+    "value": 1.3333333333333333,
+    "type": "Line Height"
+  },
+  "mBreakpointM": {
+    "description": "",
+    "value": 1.2857142857142858,
+    "type": "Line Height"
+  },
+  "mBreakpointXL": {
+    "description": "",
+    "value": 1.25,
+    "type": "Line Height"
+  },
+  "l": {
+    "description": "",
+    "value": 1.2857142857142858,
+    "type": "Line Height"
+  },
+  "lBreakpointM": {
+    "description": "",
+    "value": 1.25,
+    "type": "Line Height"
+  },
+  "lBreakpointXL": {
+    "description": "",
+    "value": 1.2,
+    "type": "Line Height"
+  },
+  "xl": {
+    "description": "",
+    "value": 1.2222222222222223,
+    "type": "Line Height"
+  },
+  "xlBreakpointM": {
+    "description": "",
+    "value": 1.2,
+    "type": "Line Height"
+  },
+  "xlBreakpointXL": {
+    "description": "",
+    "value": 1.1428571428571428,
+    "type": "Line Height"
+  },
+  "xxl": {
+    "description": "",
+    "value": 1.2,
+    "type": "Line Height"
+  },
+  "xxlBreakpointM": {
+    "description": "",
+    "value": 1.1428571428571428,
+    "type": "Line Height"
+  },
+  "xxlBreakpointXL": {
+    "description": "",
+    "value": 1.2,
+    "type": "Line Height"
+  },
+  "xxxl": {
+    "description": "",
+    "value": 1.1428571428571428,
+    "type": "Line Height"
+  },
+  "xxxlBreakpointM": {
+    "description": "",
+    "value": 1.2,
+    "type": "Line Height"
+  },
+  "xxxlBreakpointXL": {
+    "description": "",
+    "value": 1.1333333333333333,
+    "type": "Line Height"
+  },
   "space": {
     "description": "The base space unit",
     "value": 4,
     "type": "sizing"
+  },
+  "spacePx": {
+    "description": "",
+    "value": "4px",
+    "type": "Sizing"
+  },
+  "leading": {
+    "description": "The base leading unit",
+    "value": 24,
+    "type": "Sizing"
+  },
+  "leadingPx": {
+    "description": "",
+    "value": "24px",
+    "type": "Sizing"
+  },
+  "verticalSpace": {
+    "4": {
+      "description": "",
+      "value": 4,
+      "type": "Sizing"
+    },
+    "8": {
+      "description": "",
+      "value": 8,
+      "type": "Sizing"
+    },
+    "12": {
+      "description": "",
+      "value": 12,
+      "type": "Sizing"
+    },
+    "16": {
+      "description": "",
+      "value": 16,
+      "type": "Sizing"
+    },
+    "24": {
+      "description": "",
+      "value": 24,
+      "type": "Sizing"
+    },
+    "32": {
+      "description": "",
+      "value": 32,
+      "type": "Sizing"
+    },
+    "48": {
+      "description": "",
+      "value": 48,
+      "type": "Sizing"
+    },
+    "64": {
+      "description": "",
+      "value": 64,
+      "type": "Sizing"
+    },
+    "96": {
+      "description": "",
+      "value": 96,
+      "type": "Sizing"
+    },
+    "128": {
+      "description": "",
+      "value": 128,
+      "type": "Sizing"
+    },
+    "4-px": {
+      "description": "",
+      "value": "4px",
+      "type": "Sizing"
+    },
+    "8-px": {
+      "description": "",
+      "value": "8px",
+      "type": "Sizing"
+    },
+    "12-px": {
+      "description": "",
+      "value": "12px",
+      "type": "Sizing"
+    },
+    "16-px": {
+      "description": "",
+      "value": "16px",
+      "type": "Sizing"
+    },
+    "24-px": {
+      "description": "",
+      "value": "24px",
+      "type": "Sizing"
+    },
+    "32-px": {
+      "description": "",
+      "value": "32px",
+      "type": "Sizing"
+    },
+    "48-px": {
+      "description": "",
+      "value": "48px",
+      "type": "Sizing"
+    },
+    "64-px": {
+      "description": "",
+      "value": "64px",
+      "type": "Sizing"
+    },
+    "96-px": {
+      "description": "",
+      "value": "96px",
+      "type": "Sizing"
+    },
+    "128-px": {
+      "description": "",
+      "value": "128px",
+      "type": "Sizing"
+    }
   }
 }
