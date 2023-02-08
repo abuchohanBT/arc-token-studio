@@ -1,0 +1,6 @@
+{
+  "ErrorButton": {
+    "value": "{Error}",
+    "type": "color"
+  }
+}

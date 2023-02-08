@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "Reference",
+    "Alias",
+    "Component"
+  ]
+}
