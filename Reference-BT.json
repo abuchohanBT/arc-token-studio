@@ -615,19 +615,62 @@
     "default": {
       "description": "The default typeface.",
       "value": "BT Curve",
-      "type": "fontFamily"
+      "type": "Font Family"
     }
   },
   "fontWeight": {
     "headline": {
       "description": "The headline font weight",
       "value": 500,
-      "type": "fontWeight"
+      "type": "Font Weight"
     }
   },
   "space": {
     "description": "The base space unit",
     "value": 4,
-    "type": "sizing"
+    "type": "Sizing"
+  },
+  "shadow": {
+    "blur": {
+      "value": 36,
+      "type": ""
+    },
+    "blurPx": {
+      "value": "36px",
+      "type": ""
+    },
+    "color": {
+      "value": "#000000",
+      "type": ""
+    },
+    "colorRgb": {
+      "value": "0, 0, 0",
+      "type": ""
+    },
+    "opacity": {
+      "value": 0.4,
+      "type": ""
+    },
+    "offset": {
+      "x": {
+        "value": -12,
+        "type": ""
+      },
+      "xPx": {
+        "value": "-12px",
+        "type": ""
+      },
+      "y": {
+        "value": 12,
+        "type": ""
+      },
+      "yPx": {
+        "value": "12px",
+        "type": ""
+      }
+    },
+    "spread": {
+      "value": 0
+    }
   }
 }
