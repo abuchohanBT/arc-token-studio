@@ -1,0 +1,633 @@
+{
+  "brand": {
+    "indigo": {
+      "name": "Indigo",
+      "description": "The brand colour.",
+      "value": "#5514b4",
+      "type": "color"
+    },
+    "pink": {
+      "name": "Pink",
+      "description": "The secondary brand colour. Usually reserved for the dark pathway.",
+      "value": "#ff80ff",
+      "type": "color"
+    },
+    "extended": {
+      "coral": {
+        "name": "Coral",
+        "value": "#ec9b9b",
+        "type": "color"
+      },
+      "turquoise": {
+        "name": "Turquoise",
+        "value": "#1ec8e6",
+        "type": "color"
+      }
+    }
+  },
+  "backgroundWhite": {
+    "name": "White",
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "backgroundLighter": {
+    "name": "Lighter",
+    "value": "#f7f7f7",
+    "type": "color"
+  },
+  "backgroundLight": {
+    "name": "Light",
+    "value": "#f0f0f0",
+    "type": "color"
+  },
+  "bodyText": {
+    "name": "Body text",
+    "description": "The default colour for all text.",
+    "value": "#2a2a2a",
+    "type": "color"
+  },
+  "supportingText": {
+    "name": "Supporting text",
+    "description": "A slightly de-emphasised text colour for less important text.",
+    "value": "#434343",
+    "type": "color"
+  },
+  "mutedText": {
+    "name": "Muted text",
+    "description": "The most de-emphasised text colour, whilst still have sufficient contrast for accessibility.",
+    "value": "#6b6b6b",
+    "type": "color"
+  },
+  "headingBrand": {
+    "description": "Brand colour for headings. Reverts to white on the dark pathway.",
+    "name": "Heading brand",
+    "value": "#5514b4",
+    "type": "color"
+  },
+  "headingProposition": {
+    "description": "Propositions are used as a two-tone treatment to highlight key words.",
+    "name": "Heading proposition",
+    "value": "#f200f5",
+    "type": "color"
+  },
+  "interactive": {
+    "name": "Interactive (flat)",
+    "description": "The fallback colour for interactive elements like links and buttons. Use this when it's not possible to use a gradient.",
+    "value": "#5514b4",
+    "type": "color"
+  },
+  "interactiveHover": {
+    "name": "Interactive hover",
+    "description": "The default colour for the hover state on interactive elements like links and buttons.",
+    "value": "#3f187f",
+    "type": "color"
+  },
+  "interactiveActive": {
+    "name": "Interactive active",
+    "description": "The default colour for the active state on interactive elements like links and buttons.",
+    "value": "#2a1c4a",
+    "type": "color"
+  },
+  "buttonForeground": {
+    "name": "Button foreground",
+    "description": "The colour for text placed on a solid button.",
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "focusOutline": {
+    "name": "Focus outline",
+    "description": "The outline colour to use when focusing interactive elements.",
+    "value": "#8449cc",
+    "type": "color"
+  },
+  "selected": {
+    "name": "Selected",
+    "description": "The colour for \"selected\" elements, like checkboxes or radios.",
+    "value": "#2a1c4a",
+    "type": "color"
+  },
+  "disabledForeground": {
+    "name": "Disabled foreground",
+    "description": "The colour for text, borders and other foreground elements in a disabled interactive element.",
+    "value": "#434343",
+    "type": "color"
+  },
+  "disabledBackground": {
+    "name": "Disabled background",
+    "description": "The background colour to use when an interactive element is disabled. For example, used as the background colour of a form input.",
+    "value": "#d9d9d9",
+    "type": "color"
+  },
+  "borderDefault": {
+    "name": "Border default",
+    "description": "The default border colour.",
+    "value": "#c8c8c8",
+    "type": "color"
+  },
+  "borderInput": {
+    "name": "Border input",
+    "description": "The border colour for input elements.",
+    "value": "#2a2a2a",
+    "type": "color"
+  },
+  "statusRed": {
+    "name": "Status red",
+    "description": "A colour used to indicate a negative or dangerous state to the user, like errors in forms.",
+    "value": "#da020f",
+    "type": "color"
+  },
+  "statusRedComplementary": {
+    "name": "Status red complementary",
+    "description": "A complementary colour to status red, which can be used as a background colour.",
+    "value": "#ffe9ec",
+    "type": "color"
+  },
+  "statusAmber": {
+    "name": "Status amber",
+    "description": "A colour used to warn or alert the user. Reverts to Grey 09 on the light pathway to provide sufficient contrast.",
+    "value": "#434343",
+    "type": "color"
+  },
+  "statusGreen": {
+    "name": "Status green",
+    "description": "A colour used to indicate a positive state to the user.",
+    "value": "#088003",
+    "type": "color"
+  },
+  "darkPathway": {
+    "backgroundBrand": {
+      "name": "Brand (flat)",
+      "value": "#5514b4",
+      "type": "color"
+    },
+    "backgroundDarker": {
+      "name": "Darker",
+      "value": "#2a2a2a",
+      "type": "color"
+    },
+    "backgroundDark": {
+      "name": "Dark",
+      "value": "#434343",
+      "type": "color"
+    },
+    "bodyText": {
+      "name": "Body text",
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "supportingText": {
+      "name": "Supporting text",
+      "value": "#e3e3e3",
+      "type": "color"
+    },
+    "mutedText": {
+      "name": "Muted text",
+      "value": "#c8c8c8",
+      "type": "color"
+    },
+    "headingBrand": {
+      "name": "Heading brand",
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "headingProposition": {
+      "name": "Heading proposition",
+      "value": "#ff80ff",
+      "type": "color"
+    },
+    "interactive": {
+      "name": "Interactive (flat)",
+      "value": "#ff80ff",
+      "type": "color"
+    },
+    "interactiveHover": {
+      "name": "Interactive hover",
+      "value": "#ffb7fe",
+      "type": "color"
+    },
+    "interactiveActive": {
+      "name": "Interactive active",
+      "value": "#ffe4ff",
+      "type": "color"
+    },
+    "buttonForeground": {
+      "name": "Button foreground",
+      "value": "#000000",
+      "type": "color"
+    },
+    "focusOutline": {
+      "name": "Focus outline",
+      "value": "#d4bfec",
+      "type": "color"
+    },
+    "selected": {
+      "name": "Selected",
+      "value": "#ffe4ff",
+      "type": "color"
+    },
+    "disabledForeground": {
+      "name": "Disabled foreground",
+      "value": "#f0f0f0",
+      "type": "color"
+    },
+    "disabledBackground": {
+      "name": "Disabled background",
+      "value": "#6b6b6b",
+      "type": "color"
+    },
+    "borderDefault": {
+      "name": "Border default",
+      "value": "#aaaaaa",
+      "type": "color"
+    },
+    "borderInput": {
+      "name": "Border input",
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "statusRed": {
+      "name": "Status red",
+      "value": "#fa9590",
+      "type": "color"
+    },
+    "statusRedComplementary": {
+      "name": "Status red complementary",
+      "value": "#ab0000",
+      "type": "color"
+    },
+    "statusAmber": {
+      "name": "Status amber",
+      "value": "#ffc501",
+      "type": "color"
+    },
+    "statusGreen": {
+      "name": "Status green",
+      "value": "#75c26c",
+      "type": "color"
+    }
+  },
+  "raw": {
+    "indigo": {
+      "10": {
+        "value": "#2a1c4a",
+        "type": "color"
+      },
+      "01": {
+        "value": "#efe5f7",
+        "type": "color"
+      },
+      "02": {
+        "value": "#d4bfec",
+        "type": "color"
+      },
+      "03": {
+        "value": "#c2a4e6",
+        "type": "color"
+      },
+      "04": {
+        "value": "#996cd5",
+        "type": "color"
+      },
+      "05": {
+        "value": "#8449cc",
+        "type": "color"
+      },
+      "06": {
+        "value": "#712dc2",
+        "type": "color"
+      },
+      "07": {
+        "value": "#6724bd",
+        "type": "color"
+      },
+      "08": {
+        "name": "08 Brand",
+        "value": "#5514b4",
+        "type": "color"
+      },
+      "09": {
+        "value": "#3f187f",
+        "type": "color"
+      }
+    },
+    "pink": {
+      "10": {
+        "value": "#7e0091",
+        "type": "color"
+      },
+      "01": {
+        "value": "#ffe4ff",
+        "type": "color"
+      },
+      "02": {
+        "value": "#ffb7fe",
+        "type": "color"
+      },
+      "03": {
+        "name": "03 Brand",
+        "value": "#ff80ff",
+        "type": "color"
+      },
+      "04": {
+        "value": "#fd51ff",
+        "type": "color"
+      },
+      "05": {
+        "value": "#f200f5",
+        "type": "color"
+      },
+      "06": {
+        "value": "#dc00e0",
+        "type": "color"
+      },
+      "07": {
+        "value": "#ca00dc",
+        "type": "color"
+      },
+      "08": {
+        "value": "#b202d6",
+        "type": "color"
+      },
+      "09": {
+        "value": "#9e02c9",
+        "type": "color"
+      }
+    },
+    "coral": {
+      "10": {
+        "value": "#9b0015",
+        "type": "color"
+      },
+      "01": {
+        "value": "#f5c8c8",
+        "type": "color"
+      },
+      "02": {
+        "value": "#f1b4b4",
+        "type": "color"
+      },
+      "03": {
+        "name": "03 Extended",
+        "value": "#ec9b9b",
+        "type": "color"
+      },
+      "04": {
+        "value": "#e88484",
+        "type": "color"
+      },
+      "05": {
+        "value": "#e47070",
+        "type": "color"
+      },
+      "06": {
+        "value": "#de5454",
+        "type": "color"
+      },
+      "07": {
+        "value": "#d83232",
+        "type": "color"
+      },
+      "08": {
+        "value": "#c22525",
+        "type": "color"
+      },
+      "09": {
+        "value": "#aa2020",
+        "type": "color"
+      }
+    },
+    "turquoise": {
+      "10": {
+        "value": "#003e55",
+        "type": "color"
+      },
+      "01": {
+        "value": "#b4ecf8",
+        "type": "color"
+      },
+      "02": {
+        "value": "#80dff3",
+        "type": "color"
+      },
+      "03": {
+        "value": "#4bd2ec",
+        "type": "color"
+      },
+      "04": {
+        "name": "04 Extended",
+        "value": "#1ec8e6",
+        "type": "color"
+      },
+      "05": {
+        "value": "#04bbe0",
+        "type": "color"
+      },
+      "06": {
+        "value": "#02a5ce",
+        "type": "color"
+      },
+      "07": {
+        "value": "#028fb2",
+        "type": "color"
+      },
+      "08": {
+        "value": "#027591",
+        "type": "color"
+      },
+      "09": {
+        "value": "#00566e",
+        "type": "color"
+      }
+    },
+    "grey": {
+      "10": {
+        "value": "#2a2a2a",
+        "type": "color"
+      },
+      "01": {
+        "value": "#f7f7f7",
+        "type": "color"
+      },
+      "02": {
+        "value": "#f0f0f0",
+        "type": "color"
+      },
+      "03": {
+        "value": "#e3e3e3",
+        "type": "color"
+      },
+      "04": {
+        "value": "#d9d9d9",
+        "type": "color"
+      },
+      "05": {
+        "value": "#c8c8c8",
+        "type": "color"
+      },
+      "06": {
+        "value": "#aaaaaa",
+        "type": "color"
+      },
+      "07": {
+        "value": "#808080",
+        "type": "color"
+      },
+      "08": {
+        "value": "#6b6b6b",
+        "type": "color"
+      },
+      "09": {
+        "value": "#434343",
+        "type": "color"
+      }
+    },
+    "green": {
+      "10": {
+        "value": "#005900",
+        "type": "color"
+      },
+      "01": {
+        "value": "#e6f4e5",
+        "type": "color"
+      },
+      "02": {
+        "value": "#c4e4bf",
+        "type": "color"
+      },
+      "03": {
+        "value": "#9ed296",
+        "type": "color"
+      },
+      "04": {
+        "value": "#75c26c",
+        "type": "color"
+      },
+      "05": {
+        "value": "#56b54b",
+        "type": "color"
+      },
+      "06": {
+        "value": "#34a827",
+        "type": "color"
+      },
+      "07": {
+        "value": "#219417",
+        "type": "color"
+      },
+      "08": {
+        "name": "08 Status",
+        "value": "#088003",
+        "type": "color"
+      },
+      "09": {
+        "value": "#036c01",
+        "type": "color"
+      }
+    },
+    "amber": {
+      "10": {
+        "value": "#ff7f00",
+        "type": "color"
+      },
+      "01": {
+        "value": "#fffee7",
+        "type": "color"
+      },
+      "02": {
+        "value": "#fffbc0",
+        "type": "color"
+      },
+      "03": {
+        "value": "#fef795",
+        "type": "color"
+      },
+      "04": {
+        "value": "#fcf567",
+        "type": "color"
+      },
+      "05": {
+        "value": "#f9ed3e",
+        "type": "color"
+      },
+      "06": {
+        "value": "#fae423",
+        "type": "color"
+      },
+      "07": {
+        "value": "#ffd502",
+        "type": "color"
+      },
+      "08": {
+        "name": "08 Status",
+        "value": "#ffc501",
+        "type": "color"
+      },
+      "09": {
+        "value": "#ffa200",
+        "type": "color"
+      }
+    },
+    "red": {
+      "10": {
+        "value": "#ab0000",
+        "type": "color"
+      },
+      "01": {
+        "value": "#ffe9ec",
+        "type": "color"
+      },
+      "02": {
+        "value": "#ffc8cb",
+        "type": "color"
+      },
+      "03": {
+        "value": "#fa9590",
+        "type": "color"
+      },
+      "04": {
+        "value": "#ed6460",
+        "type": "color"
+      },
+      "05": {
+        "value": "#f63a38",
+        "type": "color"
+      },
+      "06": {
+        "value": "#f91f14",
+        "type": "color"
+      },
+      "07": {
+        "value": "#eb0113",
+        "type": "color"
+      },
+      "08": {
+        "name": "08 Status",
+        "value": "#da020f",
+        "type": "color"
+      },
+      "09": {
+        "value": "#c90104",
+        "type": "color"
+      }
+    }
+  },
+  "typeface": {
+    "default": {
+      "description": "The default typeface.",
+      "value": "BT Curve",
+      "type": "fontFamily"
+    }
+  },
+  "fontWeight": {
+    "headline": {
+      "description": "The headline font weight",
+      "value": 500,
+      "type": "fontWeight"
+    }
+  },
+  "space": {
+    "description": "The base space unit",
+    "value": 4,
+    "type": "sizing"
+  }
+}

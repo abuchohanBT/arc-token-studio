@@ -1,0 +1,20 @@
+{
+  "black": {
+    "value": "#000000",
+    "type": "color"
+  },
+  "white": {
+    "value": "#ffffff",
+    "type": "color"
+  },
+  "debug": {
+    "description": "Make elements visible for debugging and documentation purposes. Designed to have sufficent contrast and visibility on a wide range of backgrounds. Use with addtional alpha channel where appropriate.",
+    "value": "#cf3a8a",
+    "type": "color"
+  },
+  "space": {
+    "description": "The base space unit",
+    "value": 4,
+    "type": "sizing"
+  }
+}
