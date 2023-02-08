@@ -1,126 +1,18 @@
 {
-  "10": {
-    "description": "",
-    "value": 56,
-    "type": "Font Sizing"
-  },
-  "11": {
-    "description": "",
-    "value": 80,
-    "type": "Font Sizing"
-  },
-  "12": {
-    "description": "",
-    "value": 120,
-    "type": "Font Sizing"
-  },
-  "black": {
-    "value": "#000000",
-    "type": "color"
-  },
-  "white": {
-    "value": "#ffffff",
-    "type": "color"
-  },
-  "debug": {
-    "description": "Make elements visible for debugging and documentation purposes. Designed to have sufficent contrast and visibility on a wide range of backgrounds. Use with addtional alpha channel where appropriate.",
-    "value": "#cf3a8a",
-    "type": "color"
-  },
-  "xxxs": {
-    "description": "",
-    "value": 1.3333333333333333,
-    "type": "Line Height"
-  },
-  "xxs": {
-    "description": "",
-    "value": 1.4285714285714286,
-    "type": "Line Height"
-  },
-  "xs": {
-    "description": "",
-    "value": 1.5,
-    "type": "Line Height"
-  },
-  "s": {
-    "description": "",
-    "value": 1.4,
-    "type": "Line Height"
-  },
-  "m": {
-    "description": "",
-    "value": 1.3333333333333333,
-    "type": "Line Height"
-  },
-  "mBreakpointM": {
-    "description": "",
-    "value": 1.2857142857142858,
-    "type": "Line Height"
-  },
-  "mBreakpointXL": {
-    "description": "",
-    "value": 1.25,
-    "type": "Line Height"
-  },
-  "l": {
-    "description": "",
-    "value": 1.2857142857142858,
-    "type": "Line Height"
-  },
-  "lBreakpointM": {
-    "description": "",
-    "value": 1.25,
-    "type": "Line Height"
-  },
-  "lBreakpointXL": {
-    "description": "",
-    "value": 1.2,
-    "type": "Line Height"
-  },
-  "xl": {
-    "description": "",
-    "value": 1.2222222222222223,
-    "type": "Line Height"
-  },
-  "xlBreakpointM": {
-    "description": "",
-    "value": 1.2,
-    "type": "Line Height"
-  },
-  "xlBreakpointXL": {
-    "description": "",
-    "value": 1.1428571428571428,
-    "type": "Line Height"
-  },
-  "xxl": {
-    "description": "",
-    "value": 1.2,
-    "type": "Line Height"
-  },
-  "xxlBreakpointM": {
-    "description": "",
-    "value": 1.1428571428571428,
-    "type": "Line Height"
-  },
-  "xxlBreakpointXL": {
-    "description": "",
-    "value": 1.2,
-    "type": "Line Height"
-  },
-  "xxxl": {
-    "description": "",
-    "value": 1.1428571428571428,
-    "type": "Line Height"
-  },
-  "xxxlBreakpointM": {
-    "description": "",
-    "value": 1.2,
-    "type": "Line Height"
-  },
-  "xxxlBreakpointXL": {
-    "description": "",
-    "value": 1.1333333333333333,
-    "type": "Line Height"
+  "color": {
+    "black": {
+      "value": "#000000",
+      "type": "color"
+    },
+    "white": {
+      "value": "#ffffff",
+      "type": "color"
+    },
+    "debug": {
+      "description": "Make elements visible for debugging and documentation purposes. Designed to have sufficent contrast and visibility on a wide range of backgrounds. Use with addtional alpha channel where appropriate.",
+      "value": "#cf3a8a",
+      "type": "color"
+    }
   },
   "space": {
     "description": "The base space unit",
@@ -130,244 +22,263 @@
   "spacePx": {
     "description": "",
     "value": "4px",
-    "type": "Sizing"
+    "type": "sizing"
   },
   "leading": {
     "description": "The base leading unit",
     "value": 24,
-    "type": "Sizing"
+    "type": "sizing"
   },
   "leadingPx": {
     "description": "",
     "value": "24px",
-    "type": "Sizing"
+    "type": "sizing"
   },
   "verticalSpace": {
     "4": {
       "description": "",
       "value": 4,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "8": {
       "description": "",
       "value": 8,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "12": {
       "description": "",
       "value": 12,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "16": {
       "description": "",
       "value": 16,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "24": {
       "description": "",
       "value": 24,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "32": {
       "description": "",
       "value": 32,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "48": {
       "description": "",
       "value": 48,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "64": {
       "description": "",
       "value": 64,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "96": {
       "description": "",
       "value": 96,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "128": {
       "description": "",
       "value": 128,
-      "type": "Sizing"
+      "type": "sizing"
     },
     "4-px": {
       "description": "",
       "value": "4px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "8-px": {
       "description": "",
       "value": "8px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "12-px": {
       "description": "",
       "value": "12px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "16-px": {
       "description": "",
       "value": "16px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "24-px": {
       "description": "",
       "value": "24px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "32-px": {
       "description": "",
       "value": "32px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "48-px": {
       "description": "",
       "value": "48px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "64-px": {
       "description": "",
       "value": "64px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "96-px": {
       "description": "",
       "value": "96px",
-      "type": "Sizing"
+      "type": "sizing"
     },
     "128-px": {
       "description": "",
       "value": "128px",
-      "type": "Sizing"
+      "type": "sizing"
     }
   },
-  "bold": {
-    "description": "The bold font weight",
-    "value": 700,
-    "type": "Font Weight"
+  "fontWeight": {
+    "bold": {
+      "description": "The bold font weight",
+      "value": 700,
+       "type": "Font Weight"
+    },
+    "normal": {
+      "description": "The normal font weight",
+      "value": 400,
+       "type": "Font Weight"
+    }
   },
-  "normal": {
-    "description": "The normal font weight",
-    "value": 400,
-    "type": "Font Weight"
-  },
-  "10-px": {
-    "description": "",
-    "value": "56px",
-    "type": "Font Sizing"
-  },
-  "11-px": {
-    "description": "",
-    "value": "80px",
-    "type": "Font Sizing"
-  },
-  "12-px": {
-    "description": "",
-    "value": "120px",
-    "type": "Font Sizing"
-  },
-  "default": {
-    "description": "The default font size",
-    "value": 16,
-    "type": "Font Sizing"
-  },
-  "default-px": {
-    "description": "The default font size",
-    "value": "16px",
-    "type": "Font Sizing"
-  },
-  "01": {
-    "description": "",
-    "value": 12,
-    "type": "Font Sizing"
-  },
-  "01-px": {
-    "description": "",
-    "value": "12px",
-    "type": "Font Sizing"
-  },
-  "02": {
-    "description": "",
-    "value": 14,
-    "type": "Font Sizing"
-  },
-  "02-px": {
-    "description": "",
-    "value": "14px",
-    "type": "Font Sizing"
-  },
-  "03": {
-    "description": "",
-    "value": 16,
-    "type": "Font Sizing"
-  },
-  "03-px": {
-    "description": "",
-    "value": "16px",
-    "type": "Font Sizing"
-  },
-  "04": {
-    "description": "",
-    "value": 20,
-    "type": "Font Sizing"
-  },
-  "04-px": {
-    "description": "",
-    "value": "20px",
-    "type": "Font Sizing"
-  },
-  "05": {
-    "description": "",
-    "value": 24,
-    "type": "Font Sizing"
-  },
-  "05-px": {
-    "description": "",
-    "value": "24px",
-    "type": "Font Sizing"
-  },
-  "06": {
-    "description": "",
-    "value": 28,
-    "type": "Font Sizing"
-  },
-  "06-px": {
-    "description": "",
-    "value": "28px",
-    "type": "Font Sizing"
-  },
-  "07": {
-    "description": "",
-    "value": 32,
-    "type": "Font Sizing"
-  },
-  "07-px": {
-    "description": "",
-    "value": "32px",
-    "type": "Font Sizing"
-  },
-  "08": {
-    "description": "",
-    "value": 36,
-    "type": "Font Sizing"
-  },
-  "08-px": {
-    "description": "",
-    "value": "36px",
-    "type": "Font Sizing"
-  },
-  "09": {
-    "description": "",
-    "value": 40,
-    "type": "Font Sizing"
-  },
-  "09-px": {
-    "description": "",
-    "value": "40px",
-    "type": "Font Sizing"
+  "fontSize": {
+    "10": {
+      "description": "",
+      "value": 56,
+       "type": "Font Size"
+    },
+    "11": {
+      "description": "",
+      "value": 80,
+       "type": "Font Size"
+    },
+    "12": {
+      "description": "",
+      "value": 120,
+       "type": "Font Size"
+    },
+    "10-px": {
+      "description": "",
+      "value": "56px",
+       "type": "Font Size"
+    },
+    "11-px": {
+      "description": "",
+      "value": "80px",
+       "type": "Font Size"
+    },
+    "12-px": {
+      "description": "",
+      "value": "120px",
+       "type": "Font Size"
+    },
+    "default": {
+      "description": "The default font size",
+      "value": 16,
+       "type": "Font Size"
+    },
+    "default-px": {
+      "description": "The default font size",
+      "value": "16px",
+       "type": "Font Size"
+    },
+    "01": {
+      "description": "",
+      "value": 12,
+       "type": "Font Size"
+    },
+    "01-px": {
+      "description": "",
+      "value": "12px",
+       "type": "Font Size"
+    },
+    "02": {
+      "description": "",
+      "value": 14,
+       "type": "Font Size"
+    },
+    "02-px": {
+      "description": "",
+      "value": "14px",
+       "type": "Font Size"
+    },
+    "03": {
+      "description": "",
+      "value": 16,
+       "type": "Font Size"
+    },
+    "03-px": {
+      "description": "",
+      "value": "16px",
+       "type": "Font Size"
+    },
+    "04": {
+      "description": "",
+      "value": 20,
+       "type": "Font Size"
+    },
+    "04-px": {
+      "description": "",
+      "value": "20px",
+       "type": "Font Size"
+    },
+    "05": {
+      "description": "",
+      "value": 24,
+       "type": "Font Size"
+    },
+    "05-px": {
+      "description": "",
+      "value": "24px",
+       "type": "Font Size"
+    },
+    "06": {
+      "description": "",
+      "value": 28,
+       "type": "Font Size"
+    },
+    "06-px": {
+      "description": "",
+      "value": "28px",
+       "type": "Font Size"
+    },
+    "07": {
+      "description": "",
+      "value": 32,
+       "type": "Font Size"
+    },
+    "07-px": {
+      "description": "",
+      "value": "32px",
+       "type": "Font Size"
+    },
+    "08": {
+      "description": "",
+      "value": 36,
+       "type": "Font Size"
+    },
+    "08-px": {
+      "description": "",
+      "value": "36px",
+       "type": "Font Size"
+    },
+    "09": {
+      "description": "",
+      "value": 40,
+       "type": "Font Size"
+    },
+    "09-px": {
+      "description": "",
+      "value": "40px",
+       "type": "Font Size"
+    }
   },
   "lineHeight": {
     "10": {
@@ -434,8 +345,7 @@
       "description": "",
       "value": 1.2,
       "type": "Line Height"
-    },
-    "type": "Line Height"
+    }
   },
   "text": {
     "fontSize": {
@@ -794,6 +704,68 @@
       }
     }
   },
+  "section": {
+    "margin": {
+      "description": "",
+      "value": 24,
+      "type": "spacing"
+    },
+    "margin-px": {
+      "description": "",
+      "value": "24px",
+      "type": "spacing"
+    },
+    "marginNarrow": {
+      "description": "",
+      "value": 16,
+      "type": "spacing"
+    },
+    "marginNarrow-px": {
+      "description": "",
+      "value": "16px",
+      "type": "spacing"
+    },
+    "marginWide": {
+      "description": "",
+      "value": 32,
+      "type": "spacing"
+    },
+    "marginWide-px": {
+      "description": "",
+      "value": "32px",
+      "type": "spacing"
+    },
+    "maxWidth": {
+      "description": "",
+      "value": 1008,
+      "type": "spacing"
+    },
+    "maxWidth-px": {
+      "description": "",
+      "value": "1008px",
+      "type": "spacing"
+    },
+    "maxWidthNarrow": {
+      "description": "",
+      "value": 620,
+      "type": "spacing"
+    },
+    "maxWidthNarrow-px": {
+      "description": "",
+      "value": "620px",
+      "type": "spacing"
+    },
+    "maxWidthWide": {
+      "description": "",
+      "value": 1280,
+      "type": "spacing"
+    },
+    "maxWidthWide-px": {
+      "description": "",
+      "value": "1280px",
+      "type": "spacing"
+    }
+  },
   "radius": {
     "description": "The base radius unit",
     "value": 8,
@@ -824,6 +796,84 @@
     "columnsCount": {
       "description": "",
       "value": 12
+    }
+  },
+  "breakpoint": {
+    "xs": {
+      "description": "The extra small breakpoint",
+      "value": 320
+    },
+    "xs-px": {
+      "description": "The extra small breakpoint",
+      "value": "320px"
+    },
+    "s": {
+      "description": "The small breakpoint",
+      "value": 636
+    },
+    "s-px": {
+      "description": "The small breakpoint",
+      "value": "636px"
+    },
+    "m": {
+      "description": "The medium breakpoint",
+      "value": 768
+    },
+    "m-px": {
+      "description": "The medium breakpoint",
+      "value": "768px"
+    },
+    "l": {
+      "description": "The large breakpoint",
+      "value": 1024
+    },
+    "l-px": {
+      "description": "The large breakpoint",
+      "value": "1024px"
+    },
+    "xl": {
+      "description": "The extra-large breakpoint",
+      "value": 1280
+    },
+    "xl-px": {
+      "description": "The extra-large breakpoint",
+      "value": "1280px"
+    }
+  },
+  "media": {
+    "minWidth": {
+      "s": {
+        "description": "The small media width",
+        "value": 636
+      },
+      "s-px": {
+        "description": "The small media width",
+        "value": "636px"
+      },
+      "m": {
+        "description": "The medium media width",
+        "value": 768
+      },
+      "m-px": {
+        "description": "The medium media width",
+        "value": "768px"
+      },
+      "l": {
+        "description": "The large media width",
+        "value": 1024
+      },
+      "l-px": {
+        "description": "The large media width",
+        "value": "1024px"
+      },
+      "xl": {
+        "description": "The extra-large media width",
+        "value": 1280
+      },
+      "xl-px": {
+        "description": "The extra-large media width",
+        "value": "1280px"
+      }
     }
   }
 }
