@@ -152,132 +152,132 @@
     "10": {
       "description": "",
       "value": 56,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "11": {
       "description": "",
       "value": 80,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "12": {
       "description": "",
       "value": 120,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "10-px": {
       "description": "",
       "value": "56px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "11-px": {
       "description": "",
       "value": "80px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "12-px": {
       "description": "",
       "value": "120px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "default": {
       "description": "The default font size",
       "value": 16,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "default-px": {
       "description": "The default font size",
       "value": "16px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "01": {
       "description": "",
       "value": 12,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "01-px": {
       "description": "",
       "value": "12px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "02": {
       "description": "",
       "value": 14,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "02-px": {
       "description": "",
       "value": "14px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "03": {
       "description": "",
       "value": 16,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "03-px": {
       "description": "",
       "value": "16px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "04": {
       "description": "",
       "value": 20,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "04-px": {
       "description": "",
       "value": "20px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "05": {
       "description": "",
       "value": 24,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "05-px": {
       "description": "",
       "value": "24px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "06": {
       "description": "",
       "value": 28,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "06-px": {
       "description": "",
       "value": "28px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "07": {
       "description": "",
       "value": 32,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "07-px": {
       "description": "",
       "value": "32px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "08": {
       "description": "",
       "value": 36,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "08-px": {
       "description": "",
       "value": "36px",
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "09": {
       "description": "",
       "value": 40,
-       "type": "Font Size"
+       "type": "fontSizes"
     },
     "09-px": {
       "description": "",
       "value": "40px",
-       "type": "Font Size"
+       "type": "fontSizes"
     }
   },
   "lineHeight": {
@@ -352,42 +352,42 @@
       "xs": {
         "description": "",
         "value": 12,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xs-px": {
         "description": "",
         "value": "12px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "s": {
         "description": "",
         "value": 14,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "s-px": {
         "description": "",
         "value": "14px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "m": {
         "description": "",
         "value": 16,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "m-px": {
         "description": "",
         "value": "16px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "l": {
         "description": "",
         "value": 20,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "l-px": {
         "description": "",
         "value": "20px",
-        "type": "Font Size"
+        "type": "fontSizes"
       }
     },
     "lineHeight": {
@@ -418,192 +418,192 @@
       "xxxs": {
         "description": "",
         "value": 12,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxs-px": {
         "description": "",
         "value": "12px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxs": {
         "description": "",
         "value": 14,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxs-px": {
         "description": "",
         "value": "14px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xs": {
         "description": "",
         "value": 16,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xs-px": {
         "description": "",
         "value": "16px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "s": {
         "description": "",
         "value": 20,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "s-px": {
         "description": "",
         "value": "20px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "m": {
         "description": "",
         "value": 24,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "m-px": {
         "description": "",
         "value": "24px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "mBreakpointM": {
         "description": "",
         "value": 28,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "mBreakpointM-px": {
         "description": "",
         "value": "28px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "mBreakpointXL": {
         "description": "",
         "value": 32,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "mBreakpointXL-px": {
         "description": "",
         "value": "32px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "l": {
         "description": "",
         "value": 28,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "l-px": {
         "description": "",
         "value": "28px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "lBreakpointM": {
         "description": "",
         "value": 32,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "lBreakpointM-px": {
         "description": "",
         "value": "32px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "lBreakpointXL": {
         "description": "",
         "value": 40,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "lBreakpointXL-px": {
         "description": "",
         "value": "40px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xl": {
         "description": "",
         "value": 36,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xl-px": {
         "description": "",
         "value": "36px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xlBreakpointM": {
         "description": "",
         "value": 40,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xlBreakpointM-px": {
         "description": "",
         "value": "40px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xlBreakpointXL": {
         "description": "",
         "value": 56,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xlBreakpointXL-px": {
         "description": "",
         "value": "56px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxl": {
         "description": "",
         "value": 40,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxl-px": {
         "description": "",
         "value": "40px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxlBreakpointM": {
         "description": "",
         "value": 56,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxlBreakpointM-px": {
         "description": "",
         "value": "56px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxlBreakpointXL": {
         "description": "",
         "value": 80,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxlBreakpointXL-px": {
         "description": "",
         "value": "80px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxl": {
         "description": "",
         "value": 56,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxl-px": {
         "description": "",
         "value": "56px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxlBreakpointM": {
         "description": "",
         "value": 80,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxlBreakpointM-px": {
         "description": "",
         "value": "80px",
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxlBreakpointXL": {
         "description": "",
         "value": 120,
-        "type": "Font Size"
+        "type": "fontSizes"
       },
       "xxxlBreakpointXL-px": {
         "description": "",
         "value": "120px",
-        "type": "Font Size"
+        "type": "fontSizes"
       }
     },
     "lineHeight": {
@@ -708,62 +708,62 @@
     "margin": {
       "description": "",
       "value": 24,
-      "type": "spacing"
+      "type": "sizing"
     },
     "margin-px": {
       "description": "",
       "value": "24px",
-      "type": "spacing"
+      "type": "sizing"
     },
     "marginNarrow": {
       "description": "",
       "value": 16,
-      "type": "spacing"
+      "type": "sizing"
     },
     "marginNarrow-px": {
       "description": "",
       "value": "16px",
-      "type": "spacing"
+      "type": "sizing"
     },
     "marginWide": {
       "description": "",
       "value": 32,
-      "type": "spacing"
+      "type": "sizing"
     },
     "marginWide-px": {
       "description": "",
       "value": "32px",
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidth": {
       "description": "",
       "value": 1008,
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidth-px": {
       "description": "",
       "value": "1008px",
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidthNarrow": {
       "description": "",
       "value": 620,
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidthNarrow-px": {
       "description": "",
       "value": "620px",
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidthWide": {
       "description": "",
       "value": 1280,
-      "type": "spacing"
+      "type": "sizing"
     },
     "maxWidthWide-px": {
       "description": "",
       "value": "1280px",
-      "type": "spacing"
+      "type": "sizing"
     }
   },
   "radius": {
