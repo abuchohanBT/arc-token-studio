@@ -720,7 +720,7 @@
     "headline": {
       "description": "The headline font weight",
       "value": 500,
-       "type": "Font Weight"
+       "type": "fontWeights"
     }
   },
   "shadow": {

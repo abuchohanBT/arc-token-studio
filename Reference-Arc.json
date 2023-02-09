@@ -140,12 +140,12 @@
     "bold": {
       "description": "The bold font weight",
       "value": 700,
-       "type": "Font Weight"
+       "type": "fontWeights"
     },
     "normal": {
       "description": "The normal font weight",
       "value": 400,
-       "type": "Font Weight"
+       "type": "fontWeights"
     }
   },
   "fontSize": {
@@ -284,67 +284,67 @@
     "10": {
       "description": "",
       "value": 1.1428571428571428,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "11": {
       "description": "",
       "value": 1.2,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "12": {
       "description": "",
       "value": 1.1333333333333333,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "default": {
       "description": "The default line height",
       "value": 1.5,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "01": {
       "description": "",
       "value": 1.3333333333333333,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "02": {
       "description": "",
       "value": 1.4285714285714286,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "03": {
       "description": "",
       "value": 1.5,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "04": {
       "description": "",
       "value": 1.4,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "05": {
       "description": "",
       "value": 1.3333333333333333,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "06": {
       "description": "",
       "value": 1.2857142857142858,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "07": {
       "description": "",
       "value": 1.25,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "08": {
       "description": "",
       "value": 1.2222222222222223,
-      "type": "Line Height"
+      "type": "lineHeights"
     },
     "09": {
       "description": "",
       "value": 1.2,
-      "type": "Line Height"
+      "type": "lineHeights"
     }
   },
   "text": {
@@ -394,22 +394,22 @@
       "xs": {
         "description": "",
         "value": 1.3333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "s": {
         "description": "",
         "value": 1.4285714285714286,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "m": {
         "description": "",
         "value": 1.5,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "l": {
         "description": "",
         "value": 1.4,
-        "type": "Line Height"
+        "type": "lineHeights"
       }
     }
   },
@@ -610,97 +610,97 @@
       "xxxs": {
         "description": "",
         "value": 1.3333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxs": {
         "description": "",
         "value": 1.4285714285714286,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xs": {
         "description": "",
         "value": 1.5,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "s": {
         "description": "",
         "value": 1.4,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "m": {
         "description": "",
         "value": 1.3333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "mBreakpointM": {
         "description": "",
         "value": 1.2857142857142858,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "mBreakpointXL": {
         "description": "",
         "value": 1.25,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "l": {
         "description": "",
         "value": 1.2857142857142858,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "lBreakpointM": {
         "description": "",
         "value": 1.25,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "lBreakpointXL": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xl": {
         "description": "",
         "value": 1.2222222222222223,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xlBreakpointM": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xlBreakpointXL": {
         "description": "",
         "value": 1.1428571428571428,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxl": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxlBreakpointM": {
         "description": "",
         "value": 1.1428571428571428,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxlBreakpointXL": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxxl": {
         "description": "",
         "value": 1.1428571428571428,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxxlBreakpointM": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "xxxlBreakpointXL": {
         "description": "",
         "value": 1.1333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       }
     }
   },

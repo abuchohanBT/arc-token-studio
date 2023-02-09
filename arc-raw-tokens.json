@@ -141,211 +141,211 @@
       "bold": {
         "description": "The bold font weight",
         "value": 700,
-         "type": "Font Weight"
+         "type": "fontWeights"
       },
       "normal": {
         "description": "The normal font weight",
         "value": 400,
-         "type": "Font Weight"
+         "type": "fontWeights"
       }
     },
     "fontSize": {
       "10": {
         "description": "",
         "value": 56,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "11": {
         "description": "",
         "value": 80,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "12": {
         "description": "",
         "value": 120,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "10-px": {
         "description": "",
         "value": "56px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "11-px": {
         "description": "",
         "value": "80px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "12-px": {
         "description": "",
         "value": "120px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "default": {
         "description": "The default font size",
         "value": 16,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "default-px": {
         "description": "The default font size",
         "value": "16px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "01": {
         "description": "",
         "value": 12,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "01-px": {
         "description": "",
         "value": "12px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "02": {
         "description": "",
         "value": 14,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "02-px": {
         "description": "",
         "value": "14px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "03": {
         "description": "",
         "value": 16,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "03-px": {
         "description": "",
         "value": "16px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "04": {
         "description": "",
         "value": 20,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "04-px": {
         "description": "",
         "value": "20px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "05": {
         "description": "",
         "value": 24,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "05-px": {
         "description": "",
         "value": "24px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "06": {
         "description": "",
         "value": 28,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "06-px": {
         "description": "",
         "value": "28px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "07": {
         "description": "",
         "value": 32,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "07-px": {
         "description": "",
         "value": "32px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "08": {
         "description": "",
         "value": 36,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "08-px": {
         "description": "",
         "value": "36px",
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "09": {
         "description": "",
         "value": 40,
-         "type": "Font Size"
+         "type": "fontSizing"
       },
       "09-px": {
         "description": "",
         "value": "40px",
-         "type": "Font Size"
+         "type": "fontSizing"
       }
     },
     "lineHeight": {
       "10": {
         "description": "",
         "value": 1.1428571428571428,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "11": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "12": {
         "description": "",
         "value": 1.1333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "default": {
         "description": "The default line height",
         "value": 1.5,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "01": {
         "description": "",
         "value": 1.3333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "02": {
         "description": "",
         "value": 1.4285714285714286,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "03": {
         "description": "",
         "value": 1.5,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "04": {
         "description": "",
         "value": 1.4,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "05": {
         "description": "",
         "value": 1.3333333333333333,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "06": {
         "description": "",
         "value": 1.2857142857142858,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "07": {
         "description": "",
         "value": 1.25,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "08": {
         "description": "",
         "value": 1.2222222222222223,
-        "type": "Line Height"
+        "type": "lineHeights"
       },
       "09": {
         "description": "",
         "value": 1.2,
-        "type": "Line Height"
+        "type": "lineHeights"
       }
     },
     "text": {
@@ -353,64 +353,64 @@
         "xs": {
           "description": "",
           "value": 12,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xs-px": {
           "description": "",
           "value": "12px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "s": {
           "description": "",
           "value": 14,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "s-px": {
           "description": "",
           "value": "14px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "m": {
           "description": "",
           "value": 16,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "m-px": {
           "description": "",
           "value": "16px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "l": {
           "description": "",
           "value": 20,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "l-px": {
           "description": "",
           "value": "20px",
-          "type": "Font Size"
+          "type": "fontSizing"
         }
       },
       "lineHeight": {
         "xs": {
           "description": "",
           "value": 1.3333333333333333,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "s": {
           "description": "",
           "value": 1.4285714285714286,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "m": {
           "description": "",
           "value": 1.5,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "l": {
           "description": "",
           "value": 1.4,
-          "type": "Line Height"
+          "type": "lineHeights"
         }
       }
     },
@@ -419,289 +419,289 @@
         "xxxs": {
           "description": "",
           "value": 12,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxs-px": {
           "description": "",
           "value": "12px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxs": {
           "description": "",
           "value": 14,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxs-px": {
           "description": "",
           "value": "14px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xs": {
           "description": "",
           "value": 16,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xs-px": {
           "description": "",
           "value": "16px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "s": {
           "description": "",
           "value": 20,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "s-px": {
           "description": "",
           "value": "20px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "m": {
           "description": "",
           "value": 24,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "m-px": {
           "description": "",
           "value": "24px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "mBreakpointM": {
           "description": "",
           "value": 28,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "mBreakpointM-px": {
           "description": "",
           "value": "28px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "mBreakpointXL": {
           "description": "",
           "value": 32,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "mBreakpointXL-px": {
           "description": "",
           "value": "32px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "l": {
           "description": "",
           "value": 28,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "l-px": {
           "description": "",
           "value": "28px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "lBreakpointM": {
           "description": "",
           "value": 32,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "lBreakpointM-px": {
           "description": "",
           "value": "32px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "lBreakpointXL": {
           "description": "",
           "value": 40,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "lBreakpointXL-px": {
           "description": "",
           "value": "40px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xl": {
           "description": "",
           "value": 36,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xl-px": {
           "description": "",
           "value": "36px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xlBreakpointM": {
           "description": "",
           "value": 40,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xlBreakpointM-px": {
           "description": "",
           "value": "40px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xlBreakpointXL": {
           "description": "",
           "value": 56,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xlBreakpointXL-px": {
           "description": "",
           "value": "56px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxl": {
           "description": "",
           "value": 40,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxl-px": {
           "description": "",
           "value": "40px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxlBreakpointM": {
           "description": "",
           "value": 56,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxlBreakpointM-px": {
           "description": "",
           "value": "56px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxlBreakpointXL": {
           "description": "",
           "value": 80,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxlBreakpointXL-px": {
           "description": "",
           "value": "80px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxl": {
           "description": "",
           "value": 56,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxl-px": {
           "description": "",
           "value": "56px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxlBreakpointM": {
           "description": "",
           "value": 80,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxlBreakpointM-px": {
           "description": "",
           "value": "80px",
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxlBreakpointXL": {
           "description": "",
           "value": 120,
-          "type": "Font Size"
+          "type": "fontSizing"
         },
         "xxxlBreakpointXL-px": {
           "description": "",
           "value": "120px",
-          "type": "Font Size"
+          "type": "fontSizing"
         }
       },
       "lineHeight": {
         "xxxs": {
           "description": "",
           "value": 1.3333333333333333,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxs": {
           "description": "",
           "value": 1.4285714285714286,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xs": {
           "description": "",
           "value": 1.5,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "s": {
           "description": "",
           "value": 1.4,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "m": {
           "description": "",
           "value": 1.3333333333333333,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "mBreakpointM": {
           "description": "",
           "value": 1.2857142857142858,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "mBreakpointXL": {
           "description": "",
           "value": 1.25,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "l": {
           "description": "",
           "value": 1.2857142857142858,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "lBreakpointM": {
           "description": "",
           "value": 1.25,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "lBreakpointXL": {
           "description": "",
           "value": 1.2,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xl": {
           "description": "",
           "value": 1.2222222222222223,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xlBreakpointM": {
           "description": "",
           "value": 1.2,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xlBreakpointXL": {
           "description": "",
           "value": 1.1428571428571428,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxl": {
           "description": "",
           "value": 1.2,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxlBreakpointM": {
           "description": "",
           "value": 1.1428571428571428,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxlBreakpointXL": {
           "description": "",
           "value": 1.2,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxxl": {
           "description": "",
           "value": 1.1428571428571428,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxxlBreakpointM": {
           "description": "",
           "value": 1.2,
-          "type": "Line Height"
+          "type": "lineHeights"
         },
         "xxxlBreakpointXL": {
           "description": "",
           "value": 1.1333333333333333,
-          "type": "Line Height"
+          "type": "lineHeights"
         }
       }
     },
@@ -1600,7 +1600,7 @@
       "headline": {
         "description": "The headline font weight",
         "value": 500,
-         "type": "Font Weight"
+         "type": "fontWeights"
       }
     },
     "shadow": {
